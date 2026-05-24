@@ -5,7 +5,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
  
  # hlds_lan_mobiles have:
 
- -Bots for 3 game mods (tfc/hl/cs)
+ -Bots for 3 gamemods (tfc/hl/cs)
  
  -Auto admin access when u join to cstrike server with cs16amx apk
  
