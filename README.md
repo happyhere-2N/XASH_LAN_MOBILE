@@ -1,4 +1,4 @@
-# HLDS_LAN_MOBILE
+# XASh_LAN_MOBILE
 runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on android
 
 -or watch tutorial on [youtube](https://youtu.be/2-okd4i2kMc)
