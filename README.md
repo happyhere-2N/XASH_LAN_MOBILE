@@ -34,7 +34,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 **3-** and now select server u wont from this files to open:
   
-  -1-[cs1.6]+bots_protocol_48.bat
+  -1-[cs16ADmin_amx]+yapb_protocol_48.bat
  
   -2-[HL]-protocol_48.bat
   
