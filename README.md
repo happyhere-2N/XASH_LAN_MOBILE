@@ -3,7 +3,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 -or watch tutorial on [youtube](https://youtu.be/2-okd4i2kMc)
  
- # hlds_lan_mobiles have:
+ # xash_lan_mobiles have:
 
  -Bots for 3 game mods (tfc/hl/cs)
  
@@ -11,6 +11,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
  
  -All mods have addons files and u can add plaugins and mods and other..
 
+ -All game mods runing with protocol 48 (old engine) 
 -- **_TF15CLIENT WITH BOTS_**
 ![Image](https://raw.githubusercontent.com/happyhere-TN/HLDS_LAN_MOBILE/refs/heads/main/Screenshot_20251006-005335_YouTube.jpg)
 
